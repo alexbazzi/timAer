@@ -1,0 +1,74 @@
+<br/>
+<table align="center" border="1" style="border:#3366FF; border-collapse:collapse; width:1100px">
+	<caption style="font-family:arial; color:#FFFFFF; background-color:#3366FF; "> <b>Time Sheet. Week starting: Monday, June 23 2014</b>
+	</caption>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Date</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Day</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Time In</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Lunch Started</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Lunch Ended</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Lunch Time</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Time Out</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Total Time - Lunch</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Decimal Time</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Pay Rate</th>
+	<th style="font-family:arial; color:#ffffff; background-color:#383838;">Total Pay</th>
+	<tr style="font-family:arial; text-align:center; background-color:#FFFFFF; ">
+		<td>6/23/2014</td>
+		<td>Monday</td>
+		<td>08:40</td>
+		<td>14:00</td>
+		<td>14:30</td>
+		<td>00:30</td>
+		<td>17:25</td>
+		<td>08:45 - 00:30</td>
+		<td>8.25 hours</td>
+		<td>$8/hour</td>
+		<td>$66.00</td>
+	</tr>
+	<tr style="font-family:arial; text-align:center; background-color:#FFFFFF; ">
+		<td>6/24/2014</td>
+		<td>Tuesday</td>
+		<td>09:05</td>
+		<td>12:05</td>
+		<td>12:35</td>
+		<td>00:30</td>
+		<td>17:25</td>
+		<td>08:20 - 00:30</td>
+		<td>7.83 hours</td>
+		<td>$8/hour</td>
+		<td>$62.67</td>
+	</tr>
+	<tr style="font-family:arial; text-align:center; background-color:#FFFFFF; ">
+		<td>6/25/2014</td>
+		<td>Wednesday</td>
+		<td>09:00</td>
+		<td>14:00</td>
+		<td>14:30</td>
+		<td>00:30</td>
+		<td>17:20</td>
+		<td>08:20 - 00:30</td>
+		<td>7.83 hours</td>
+		<td>$8/hour</td>
+		<td>$62.67</td>
+	</tr>
+	<tr style="font-family:arial; text-align:center; background-color:#FFFFFF; ">
+		<td>6/26/2014</td>
+		<td>Thursday</td>
+		<td>08:50</td>
+		<td>14:00</td>
+		<td>14:15</td>
+		<td>00:15</td>
+		<td>17:25</td>
+		<td>08:35 - 00:10</td>
+		<td>8.42 hours</td>
+		<td>$8/hour</td>
+		<td>$67.33</td>
+	</tr>
+	<tr style="font-family:arial;text-align:center; background-color:#FFFFFF; ">
+		<td>6/27/2014</td>
+		<td>Friday</td>
+		<td>08:50</td>
+		<td>13:00</td>
+		<td>14:00</td>
+		<td>01:00</td><td>17:20</td><td>08:30 - 01:00</td><td>7.50 hours</td><td>$8/hour</td><td>$60.00</td></tr>
