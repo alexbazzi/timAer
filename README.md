@@ -5,7 +5,7 @@ Clocking program for salary jobs that I wrote per request of my boss. It's scrip
 
 The etymology comes from the English verb "timer," wich is the action to time (duh), which I adapted to timAer because the name of the company I work for (at least for now) is AerSale, Inc.
 
-The output of the file is formatted in HTML and it needs a working, installed mail client, such as MS Outlook, for the mailer executable (TimAerMailer.ps1) to work.
+The output of the file is formatted in HTML and it needs a working, installed mail client, such as MS Outlook, for the mailer executable (TimAerMailer.ps1) to work. The program also uses XML to store time and name variables for later use throughout the day.
 
 Enjoy!
 
